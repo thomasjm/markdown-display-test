@@ -11,7 +11,7 @@
 
 # aasdf
 
-###  
+###
 
 $$a s d f a s d f$$
 
@@ -20,6 +20,7 @@ $$a s d f a s d f$$
 ## bigheader
 
 ```{octave}
+# Note how the pre block has newlines in it
 magic(6)
 ```
 <div>
@@ -35,11 +36,11 @@ ans =
    30    5   34   12   14   16
     4   36   29   13   18   11
 
+
+
             </pre>
         </div>
-        
     </div>
-    
 </div>
 
 asasdfasdf
@@ -57,11 +58,8 @@ plot(magic(6))
         <div class="display">
             <div class="display-data result-image-container" data-mime-type="image/svg+xml">
                 <img class="result-image" src="assets/25992bca3e.svg" title="Result image" alt>
-                
             </div>
-            
         </div>
-        
     </div>
 </div>
 
@@ -74,10 +72,10 @@ plot(magic(4))
         <div class="display">
             <div class="display-data result-image-container" data-mime-type="image/svg+xml">
                 <img class="result-image" src="assets/d63089d3b5.svg" title="Result image" alt>
-                
+
             </div>
-            
+
         </div>
-        
+
     </div>
 </div>
