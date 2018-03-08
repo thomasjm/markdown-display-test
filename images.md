@@ -69,6 +69,32 @@ ans =
     </div>
 </div>
 
+# now let's try adding whitespace to pre lines
+
+```{octave}
+# Note how the pre block has newlines in it
+magic(6)
+```
+<div>
+    <div class="codeparent octave">
+        <div class="stdout">
+            <pre>
+ans =
+ 
+   35    1    6   26   19   24
+    3   32    7   21   23   25
+   31    9    2   22   27   20
+    8   28   33   17   10   15
+   30    5   34   12   14   16
+    4   36   29   13   18   11
+ 
+ 
+ 
+</pre>
+        </div>
+    </div>
+</div>
+
 
 asasdfasdf
 
